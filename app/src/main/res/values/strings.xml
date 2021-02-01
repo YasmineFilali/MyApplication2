@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Preom</string>
+    <string name="age">Age</string>
+    <string name="domaine">Domaine</string>
+    <string name="num">Num</string>
+    <string name="button">Valider </string>
+
+</resources>
